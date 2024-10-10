@@ -1,0 +1,3 @@
+Amount,InterestRate,IsOneTime,Time,Category,Description
+50000.000000,0.010000,true,2032,VEHICLE_LOAN,Car Loan1
+2000.000000,0.020000,false,2030,CONSUMPTION_LOAN,LV bag
